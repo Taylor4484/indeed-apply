@@ -3,7 +3,7 @@
 Plugin Name: Indeed Apply for WordPress
 Plugin URI: http://www.indeed.com/hire/indeed-apply
 Description: Add Indeed Apply buttons to any WordPress website using shortcodes
-Version: 1.5
+Version: 1.6
 Author: Indeed.com
 Author URI: http://www.indeed.com
 License: GPLv2 or later

@@ -2,8 +2,8 @@
 Contributors: Indeed.com, Taylor4484
 Tags: indeed, apply, jobs, job, application, mobile apply, Indeed Apply, career page, jobs page, job search, shortcode, email application
 Requires at least: 3.2
-Tested up to: 4.0
-Stable tag: 1.5
+Tested up to: 4.4
+Stable tag: 1.6
 License: Apache 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 
@@ -167,6 +167,10 @@ The plugin source code is Apache 2.0, however use of Indeed Apply through this p
 
 == Changelog ==
 
+= 1.6 =
+Tested compatibility with WordPress 4.4
+Tested compatibility with PHP 5.5 & PHP 7
+
 = 1.5 =
 * Update compatibility for WordPress 4.0
 * Add fallback to jobcompanyname
@@ -195,6 +199,10 @@ The plugin source code is Apache 2.0, however use of Indeed Apply through this p
 
 
 == Upgrade Notice ==
+
+= 1.6 =
+Tested compatibility with WordPress 4.4, 100% compatibile
+Tested compatibility with PHP 5.5 & PHP 7, 100% compatibile
 
 = 1.5 =
 * Update compatibility for WordPress 4.0
